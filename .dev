@@ -1,0 +1,7 @@
+git checkout master
+
+git merge dev
+
+git status
+
+git push origin master
